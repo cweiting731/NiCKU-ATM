@@ -1,0 +1,7 @@
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 2 practice 1\practice 1-2\Practice1_2\Practice1_2\bin\Debug\Practice1_2.exe.config
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 2 practice 1\practice 1-2\Practice1_2\Practice1_2\bin\Debug\Practice1_2.exe
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 2 practice 1\practice 1-2\Practice1_2\Practice1_2\bin\Debug\Practice1_2.pdb
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 2 practice 1\practice 1-2\Practice1_2\Practice1_2\obj\Debug\Practice1_2.csproj.AssemblyReference.cache
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 2 practice 1\practice 1-2\Practice1_2\Practice1_2\obj\Debug\Practice1_2.csproj.CoreCompileInputs.cache
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 2 practice 1\practice 1-2\Practice1_2\Practice1_2\obj\Debug\Practice1_2.exe
+C:\Users\周煒庭\Desktop\大二上 周煒庭 資訊116 F74121246\視窗程式設計 張瑞紘\week 2 practice 1\practice 1-2\Practice1_2\Practice1_2\obj\Debug\Practice1_2.pdb
